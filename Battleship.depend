@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1398018749 source:c:\users\james\documents\computer graphics\battleship\battleship\grid.cpp
+	"Grid.h"
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"LoadShaders.h"
+
+1398097611 c:\users\james\documents\computer graphics\battleship\battleship\grid.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+
+1395478265 c:\users\james\documents\computer graphics\battleship\battleship\loadshaders.h
+	<GL/gl.h>
+
+1389558270 source:c:\users\james\documents\computer graphics\battleship\battleship\loadshaders.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"LoadShaders.h"
+
+1434312347 source:c:\users\james\documents\computer graphics\battleship\battleship\main.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"Grid.h"
+	"Ship.h"
+	"LoadShaders.h"
+	"vec_mat.h"
+	<time.h>
+	<cstdlib>
+	<stdio.h>
+	<iostream>
+
+1398022933 c:\users\james\documents\computer graphics\battleship\battleship\ship.h
+	<string>
+	"Grid.h"
+	"rectangle.h"
+	<GL/glew.h>
+	<GL/freeglut.h>
+
+1397616855 c:\users\james\documents\computer graphics\battleship\battleship\plane.h
+	"vec_mat.h"
+
+1391034607 c:\users\james\documents\computer graphics\battleship\battleship\vec_mat.h
+	<math.h>
+	<iostream>
+
+1396494490 source:c:\users\james\documents\computer graphics\battleship\battleship\plane.cpp
+	<GL/glew.h>
+	"plane.h"
+
+1398022965 source:c:\users\james\documents\computer graphics\battleship\battleship\ship.cpp
+	"Ship.h"
+	"Grid.h"
+	"rectangle.h"
+	"Image_File_IO.h"
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<string>
+	<iostream>
+
+1358275388 c:\users\james\documents\computer graphics\battleship\battleship\image_file_io.h
+	<Carbon/Carbon.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<OpenGL/glext.h>
+	<sys/time.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	<stdio.h>
+
+1398092540 source:c:\users\james\documents\computer graphics\battleship\battleship\rectangle.cpp
+	<GL/glew.h>
+	"rectangle.h"
+
+1398092469 c:\users\james\documents\computer graphics\battleship\battleship\rectangle.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+
+1397710211 source:c:\users\james\documents\computer graphics\battleship\battleship\button.cpp
+	"rectangle.h"
+	"Button.h"
+	"LoadShaders.h"
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<iostream>
+
+1397710824 c:\users\james\documents\computer graphics\battleship\battleship\button.h
+	"rectangle.h"
+	<GL/glew.h>
+	<GL/freeglut.h>
+
+1397697695 c:\users\james\documents\computer graphics\battleship\battleship\imageloader.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+
